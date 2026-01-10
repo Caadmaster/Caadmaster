@@ -81,19 +81,25 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Caadmaster&show_icons=true&theme=blood&count_private=true" height="180" alt="Stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Caadmaster&show_icons=true&theme=blood&include_all_commits=true" height="180" alt="Caadmaster's Github Stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caadmaster&layout=compact&theme=blood&langs_count=6" height="180" alt="Top Languages" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caadmaster&theme=blood" alt="GitHub Streak" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caadmaster&layout=compact&theme=blood&langs_count=6" height="180" alt="Languages" />
+<img src="https://github.com/Caadmaster/Caadmaster/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Caadmaster&theme=blood" alt="Streak" />
-
-</div>
-<div align="center">
-  <img src="https://github.com/Caadmaster/Caadmaster/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
