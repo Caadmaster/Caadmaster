@@ -101,7 +101,7 @@
 <img src="https://github.com/Caadmaster/Caadmaster/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
-### 📜 Certifications
+📜 Certifications
 
 * **IBM AI Engineering Professional Certificate**
 * **AWS Solutions Architect Associate Course** (Ethnus)
