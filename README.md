@@ -1,104 +1,85 @@
-# 👋 Hi, I'm Chinmay Gokhale
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%27m%20Chinmay%20Gokhale&descAlignY=51&descAlign=62" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Machine+Learning+%7C+Deep+Learning;Building+Scalable+AI+Systems;Python+%7C+PyTorch+%7C+Flask" alt="Typing SVG" />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Python+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chinmaygokhale&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/chinmaygokhale?label=Followers&style=social" />
-</p>
-
----
-
-## 🚀 About Me
-
-* 🎓 **B.Tech CSE (AI & ML)** @ Vellore Institute of Technology (CGPA: **8.33**)
-* 🤖 Passionate about **Machine Learning, Deep Learning & NLP**
-* 🧠 I enjoy building **production-grade AI systems**, not just models
-* 🌱 Currently exploring **LLM safety, medical NLP & scalable ML pipelines**
+<div align="center">
+  
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+  <a href="mailto:akhilgokhalechinmay@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-### 👨‍💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### 🤖 Machine Learning & AI
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
-
-### 🌐 Backend & DevOps
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+- [cite_start]🎓 I'm a **Computer Science** student specializing in **AI & Machine Learning** at **VIT** (CGPA: 8.33)[cite: 4].
+- [cite_start]🧠 I am a **Machine Learning Member** at **Google Developer Groups**[cite: 31].
+- [cite_start]🔭 I’m currently working on building robust **NLP pipelines** and **Deep Learning models**[cite: 21, 23].
+- [cite_start]💡 I love solving complex problems and participated in the **Aptiv Ideathon 2025**[cite: 32].
+- [cite_start]⚡ **Fun fact:** When I'm not coding, I'm gaming or cycling! [cite: 33]
 
 ---
 
-## 📌 Featured Projects
+### 🛠️ Tech Stack
 
-### 💳 Credit Card Fraud Detection
-
-* 🔍 Unsupervised **Autoencoder-based anomaly detection**
-* 📊 Processed **400k+ transactions** with extreme class imbalance
-* ⚡ Achieved **92% Recall** with high AUPRC
-* 🌐 Deployed using **Flask REST API** for real-time inference
-
-### 🌐 Sentiment Analysis Web App
-
-* 🧠 NLP pipeline using **NLTK**
-* 🕷️ Real-time scraping from **Reddit & Amazon**
-* 🐳 Fully **Dockerized** for production-ready deployment
-
-### 🏥 Medical NLP Pipeline
-
-* 📝 SOAP note generation using **Flan-T5**
-* 🧬 Clinical entity extraction with **SciSpacy + Regex**
-* 🛡️ Hallucination-safe design via **parallel validation pipelines**
-* 📐 Strict schema validation using **Pydantic**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,pandas,numpy&perline=7" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,flask,mysql,postgres&perline=7" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmaygokhale&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaygokhale&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaygokhale&layout=compact&theme=tokyonight" height="160" />
-</p>
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **Medical NLP Pipeline** | A hybrid NLP system for doctor-patient transcripts using **Flan-T5** and **SciSpacy**. [cite_start]Prevents LLM hallucinations via rule-based validation[cite: 21, 23, 24]. | `PyTorch` `Transformers` `SciSpacy` |
+| **Credit Card Fraud Detection** | An Unsupervised **Autoencoder** model achieving **92% Recall**. [cite_start]Processed 400k+ records to identify anomalies in real-time[cite: 9, 11, 13]. | `Python` `Flask` `Autoencoder` |
+| **Sentiment Analysis Web App** | Full-stack NLP app using **BeautifulSoup** for scraping and **Docker** for containerization. [cite_start]Provides real-time sentiment predictions[cite: 15, 18, 20]. | `Flask` `NLTK` `Docker` |
 
 ---
 
-## 🏆 Certifications & Achievements
+### 🏆 GitHub Stats
 
-* ☁️ **AWS Solutions Architect – Associate**
-* 🤖 **IBM AI Engineering Professional Certificate**
-* 🌍 Machine Learning Member @ **Google Developer Groups**
-* 🏅 Aptiv Ideathon 2025 – Built backend logic for **Safe Exit System**
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=caadmaster&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</a>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=caadmaster&show_icons=true&theme=radical&count_private=true" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caadmaster&layout=compact&theme=radical&langs_count=6" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caadmaster&theme=radical" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+### 📜 Certifications
 
-<p align="center">
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:akhilgokhalechinmay@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/chinmaygokhale"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+* [cite_start]**IBM AI Engineering Professional Certificate** [cite: 29]
+* [cite_start]**AWS Solutions Architect Associate Course** (Ethnus) [cite: 28]
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:6366f1&height=120&section=footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
