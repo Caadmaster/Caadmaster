@@ -103,7 +103,7 @@
 * **AWS Solutions Architect Associate Course** (Ethnus)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNxeGhyZGFianJycGg3dm00YjY1MmN4eTc3cDBzdXZhN25sMXJuMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/squFZjENy2XzG/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNxeGhyZGFianJycGg3dm00YjY1MmN4eTc3cDBzdXZhN25sMXJuMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/squFZjENy2XzG/giphy.gif" width="500" />
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,DA291C&height=100&section=footer&text=Glory%20Glory%20Man%20United&fontSize=20&fontColor=ffffff" />
 </div>
