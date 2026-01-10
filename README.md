@@ -85,13 +85,6 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Caadmaster&show_icons=true&theme=blood&include_all_commits=true" height="180" alt="Caadmaster's Github Stats" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caadmaster&layout=compact&theme=blood&langs_count=6" height="180" alt="Top Languages" />
-</a>
 
 <br/>
 <br/>
