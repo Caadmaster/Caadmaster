@@ -79,14 +79,17 @@
 
 ### 🏆 Season Stats
 
+<div align="center">
+
+
+
+<br/>
+<br/>
+
 <a href="https://leetcode.com/Caadmaster">
   <img src="https://leetcard.jacoblin.cool/Caadmaster?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </a>
-<br/>
-<br/>
 
-
-<br/>
 <br/>
 
 <a href="https://git.io/streak-stats">
@@ -98,8 +101,6 @@
 <img src="https://github.com/Caadmaster/Caadmaster/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
-
----
 ### 📜 Certifications
 
 * **IBM AI Engineering Professional Certificate**
