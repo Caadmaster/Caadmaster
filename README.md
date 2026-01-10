@@ -20,12 +20,12 @@
 
 ### ⚽ About Me
 
-- [cite_start]🎓 I'm a **Computer Science** student specializing in **AI & Machine Learning** at **VIT** (CGPA: 8.33)[cite: 3, 4].
+- 🎓 I'm a **Computer Science** student specializing in **AI & Machine Learning** at **VIT** (CGPA: 8.33).
 - 🏟️ Huge **Manchester United** supporter.
-- [cite_start]🧠 I am a **Machine Learning Member** at **Google Developer Groups**[cite: 31].
-- [cite_start]🔭 Working on **Medical NLP Pipelines** and **Fraud Detection Systems**[cite: 9, 21].
-- [cite_start]💡 Participated in the **Aptiv Ideathon 2025** solving real-world accessibility problems[cite: 32].
-- [cite_start]🎮 Hobbies: Problem Solving, Gaming, and Cycling[cite: 33].
+- 🧠 I am a **Machine Learning Member** at **Google Developer Groups**.
+- 🔭 Working on **Medical NLP Pipelines** and **Fraud Detection Systems**.
+- 💡 Participated in the **Aptiv Ideathon 2025** solving real-world accessibility problems.
+- 🎮 Hobbies: Problem Solving, Gaming, and Cycling.
 
 ---
 
@@ -43,9 +43,9 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [cite_start]**Medical NLP Pipeline** [cite: 21] | Hybrid NLP system for doctor-patient transcripts using **Flan-T5** and **SciSpacy**. Prevents hallucinations via rule-based validation. | `PyTorch` `Transformers` `SciSpacy` |
-| [cite_start]**Credit Card Fraud Detection** [cite: 9] | [cite_start]Unsupervised **Autoencoder** model achieving **92% Recall**[cite: 13]. Processed 400k+ records to identify anomalies. | `Python` `Flask` `Autoencoder` |
-| [cite_start]**Sentiment Analysis Web App** [cite: 15] | [cite_start]NLP app using **BeautifulSoup** for scraping reviews and **Docker** for containerization[cite: 18, 20]. | `Flask` `NLTK` `Docker` |
+| **Medical NLP Pipeline** | Hybrid NLP system for doctor-patient transcripts using **Flan-T5** and **SciSpacy**. Prevents hallucinations via rule-based validation. | `PyTorch` `Transformers` `SciSpacy` |
+| **Credit Card Fraud Detection** | Unsupervised **Autoencoder** model achieving **92% Recall**. Processed 400k+ records to identify anomalies. | `Python` `Flask` `Autoencoder` |
+| **Sentiment Analysis Web App** | NLP app using **BeautifulSoup** for scraping reviews and **Docker** for containerization. | `Flask` `NLTK` `Docker` |
 
 ---
 
@@ -53,24 +53,15 @@
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Caadmaster&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Caadmaster&show_icons=true&theme=blood&count_private=true" height="180" alt="Stats" />
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Caadmaster&show_icons=true&theme=blood&count_private=true" />
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caadmaster&layout=compact&theme=blood&langs_count=6" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caadmaster&layout=compact&theme=blood&langs_count=6" height="180" alt="Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Caadmaster&theme=blood" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Caadmaster&theme=blood" alt="Streak" />
 
 </div>
 
@@ -78,8 +69,8 @@
 
 ### 📜 Certifications
 
-* [cite_start]**IBM AI Engineering Professional Certificate** [cite: 29]
-* [cite_start]**AWS Solutions Architect Associate Course** (Ethnus) [cite: 28]
+* **IBM AI Engineering Professional Certificate**
+* **AWS Solutions Architect Associate Course** (Ethnus)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,DA291C&height=100&section=footer" />
