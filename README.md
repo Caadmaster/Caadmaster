@@ -22,7 +22,6 @@
 
 - 🎓 I'm a **Computer Science** student specializing in **AI & Machine Learning** at **VIT** (CGPA: 8.33).
 - 🏟️ Huge **Manchester United** supporter.
-- 🧠 I am a **Machine Learning Member** at **Google Developer Groups**.
 - 🔭 Working on **Medical NLP Pipelines** and **Fraud Detection Systems**.
 - 💡 Participated in the **Aptiv Ideathon 2025** solving real-world accessibility problems.
 - 🎮 Hobbies: Problem Solving, Gaming, and Cycling.
