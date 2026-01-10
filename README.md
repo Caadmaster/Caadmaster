@@ -80,6 +80,10 @@
 ### 🏆 Season Stats
 
 <div align="center">
+<a href="https://leetcode.com/u/FPmULqvJqd/">
+  <img src="https://leetcard.jacoblin.cool/Caadmaster?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</a>
+<br/>
 
 
 <br/>
