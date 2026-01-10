@@ -93,6 +93,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caadmaster&theme=blood" alt="Streak" />
 
 </div>
+<div align="center">
+  <img src="https://github.com/Caadmaster/Caadmaster/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
 ---
 ### 📜 Certifications
