@@ -79,10 +79,6 @@
 
 ### 🏆 Season Stats
 
----
-
-### 🏆 Season Stats
-
 <div align="center">
 
 
