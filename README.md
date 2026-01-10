@@ -54,7 +54,7 @@
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=caadmaster&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Caadmaster&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </a>
 
 <br/>
@@ -62,15 +62,15 @@
 <table>
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=caadmaster&show_icons=true&theme=blood&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Caadmaster&show_icons=true&theme=blood&count_private=true" />
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caadmaster&layout=compact&theme=blood&langs_count=6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caadmaster&layout=compact&theme=blood&langs_count=6" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=caadmaster&theme=blood" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Caadmaster&theme=blood" />
 
 </div>
 
