@@ -31,10 +31,39 @@
 
 ### 🛠️ Tech Tactics (Skills)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,pandas,numpy&perline=7" />
+### 📋 The Starting XI (Tech Stack)
+
+<div align="center" style="background-color: #000; padding: 20px; border-radius: 10px; border: 2px solid #DA291C;">
+  
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=python" width="40"/><br><b>Captain</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="40"/><br><b>Striker</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/><br><b>Winger</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=docker" width="40"/><br><b>Defense</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=aws" width="40"/><br><b>Midfield</b>
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" width="40"/><br><b>Keeper</b>
+      </td>
+    </tr>
+  </table>
+
   <br>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,flask,mysql,postgres&perline=7" />
+  <img src="https://img.shields.io/badge/Strategy-Machine%20Learning-DA291C?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Formation-Python%20FullStack-000000?style=for-the-badge&logo=python" />
+
 </div>
 
 ---
