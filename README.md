@@ -20,7 +20,8 @@
 
 ###  About Me
 
--  I'm a **Computer Science** student specializing in **AI & Machine Learning** at **VIT** (CGPA: 8.33).
+-  I was a **Computer Science** student specializing in **AI & Machine Learning** at **VIT** (CGPA: 8.43).
+-  I now work at LTM working on dotnet infra 😧
 -  Huge **Manchester United** supporter.
 -  Working on trying to learn the everchanging AI landscape.
 -  Participated in the **Aptiv Ideathon 2025** solving real-world accessibility problems.
