@@ -18,19 +18,19 @@
 
 ---
 
-### ⚽ About Me
+###  About Me
 
-- 🎓 I'm a **Computer Science** student specializing in **AI & Machine Learning** at **VIT** (CGPA: 8.33).
-- 🏟️ Huge **Manchester United** supporter.
-- 🔭 Working on trying to learn the everchanging AI landscape.
-- 💡 Participated in the **Aptiv Ideathon 2025** solving real-world accessibility problems.
-- 🎮 Hobbies: Problem Solving, Gaming, and Cycling.
+-  I'm a **Computer Science** student specializing in **AI & Machine Learning** at **VIT** (CGPA: 8.33).
+-  Huge **Manchester United** supporter.
+-  Working on trying to learn the everchanging AI landscape.
+-  Participated in the **Aptiv Ideathon 2025** solving real-world accessibility problems.
+-  Hobbies: Problem Solving, Gaming, and Cycling.
 
 ---
 
-### 🛠️ Tech Tactics (Skills)
+###  Tech Tactics (Skills)
 
-### 📋 The Starting XI (Tech Stack)
+###  The Starting XI (Tech Stack)
 
 <div align="center" style="background-color: #000; padding: 20px; border-radius: 10px; border: 2px solid #DA291C;">
   
@@ -67,7 +67,7 @@
 
 ---
 
-### 🚀 Match Highlights (Projects)
+###  Match Highlights (Projects)
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
@@ -77,7 +77,7 @@
 
 ---
 
-### 🏆 Season Stats
+###  Season Stats
 
 <div align="center">
 
@@ -101,7 +101,7 @@
 <img src="https://github.com/Caadmaster/Caadmaster/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
-📜 Certifications
+ Certifications
 
 * **IBM AI Engineering Professional Certificate**
 * **AWS Solutions Architect Associate Course** (Ethnus)
